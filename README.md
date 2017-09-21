@@ -4,6 +4,7 @@ create reports using the <b><a href="https://jsreport.net/">jsreport</a></b> pla
 
 <style>
         .img-indicadores
+        {}
         </style>
 <table>
         <tr>
