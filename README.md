@@ -9,7 +9,7 @@ create reports using the <b><a href="https://jsreport.net/">jsreport</a></b> pla
   <p>
       <ol>
         <li>&nbsp;<b>npm install jsreport-cli -g</b></li>
-        <li>&nbsp;jsreport init &rarar</li>
+        <li>&nbsp;jsreport init &rarr;</li>
         <li>&nbsp;jsreport start</li>
   </ol>
   </p>
