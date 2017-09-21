@@ -5,7 +5,7 @@ create reports using the <b><a href="https://jsreport.net/">jsreport</a></b> pla
 <table>
         <tr>
                 <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRduC61cdjoz1NoOtPRA_m4l5lo7FQxZt6hRbXlIbdSRZNzzIAdsQ" /></td>
-                <td></td>
+                <td><img src="http://wfsinc.com/images/wfs/drop-icon-3.png"/></td>
                 <td></td>
         </tr>
 </table>
