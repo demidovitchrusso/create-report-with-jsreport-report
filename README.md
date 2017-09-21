@@ -13,7 +13,7 @@ create reports using the <b><a href="https://jsreport.net/">jsreport</a></b> pla
       <ol>
         <li>&nbsp;<b>npm install jsreport-cli -g</b></li>
         <li>&nbsp;jsreport init &rarr; ( if you want to generate any project structure (<b>new project</b>) )</li>
-        <li>&nbsp;jsreport start &rarr; ( jsreport on default port <b>5488</b> )</li>
+        <li>&nbsp;jsreport start &rarr; ( <b>start server</b>, &nbsp;jsreport on default port <b>5488</b> )</li>
   </ol>
   </p>
 </div>
