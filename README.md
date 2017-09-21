@@ -2,7 +2,7 @@
 
 create reports using the <b><a href="https://jsreport.net/">jsreport</a></b> platform, removing a reliance on the tools namely <b>crystal report</b>, <b>jasper report</b>, and more.
 
-<b>Note:</b> jsreport is an open source server running cross-platform server
+<b>Note:</b> jsreport is an open source server running cross-platform server.
 
 </br>
 </br>
