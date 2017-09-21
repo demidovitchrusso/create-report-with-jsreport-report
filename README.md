@@ -4,6 +4,8 @@ create reports using the <b><a href="https://jsreport.net/">jsreport</a></b> pla
 
 <b>Note:</b> jsreport is an open source server running cross-platform server
 
+</br>
+</br>
 <div>
   <span>The only prerequisite is presence of node.js on the target machine. The installation is then initiated using npm.</span>
   </br>
