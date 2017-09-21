@@ -8,9 +8,9 @@ create reports using the <b><a href="https://jsreport.net/">jsreport</a></b> pla
   </br>
   <p>
       <ol>
-        <li>npm install jsreport-cli -g</li>
-        <li>jsreport init</li>
-        <li>jsreport start</li>
+        <li>&nbsp;<b>npm install jsreport-cli -g</b></li>
+        <li>&nbsp;jsreport init</li>
+        <li>&nbsp;jsreport start</li>
   </ol>
   </p>
 </div>
