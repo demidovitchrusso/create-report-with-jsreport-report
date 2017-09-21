@@ -1,2 +1,3 @@
 # create-report-with-jsreport-report
-create cross platform report using html, css, js, json
+
+create reports using the jsreport platform, removing a reliance on the tools namely crystal, jasper report, and more.
